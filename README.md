@@ -1,16 +1,14 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinCrane)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi!&fontSize=90&fontAlign=50&fontAlignY=30&desc=👋&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 <!--
-**QuentinCrane/QuentinCrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinCrane&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinCrane&hide=Rich%20Text%20Format,ShaderLab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuentinCrane&repo=ShadowLite&show_owner=True)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=QuentinCrane&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Good Day！&fontSize=90&fontAlign=50&fontAlignY=70&desc=😉&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
 -->
