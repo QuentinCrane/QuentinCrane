@@ -89,8 +89,8 @@
 <div align="center">
 
 <!-- GitHub Stats Card (Left) + Top Languages (Right) -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=QuentinCrane&show_icons=true&theme=blue&hide_border=true&count_private=true&title_color=54b1fd&text_color=333&icon_color=54b1fd&bg_color=fff" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinCrane&layout=compact&theme=blue&hide_border=true&title_color=54b1fd&text_color=333&bg_color=fff" alt="Top Languages" />
+<img width="48%" src="profile/stats.svg" alt="GitHub Stats" />
+<img width="48%" src="profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
@@ -106,9 +106,9 @@
 <!-- GitHub Contribution Snake Animation -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="profile/github-contribution-grid-snake.svg" />
 </picture>
 </div>
 
@@ -118,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=QuentinCrane&theme=blue&no-frame=true&no-bg=true&margin-w=8&column=4&title_color=54b1fd" alt="GitHub Trophies" />
+<img src="profile/trophy.svg" alt="GitHub Trophies" />
 
 </div>
 
