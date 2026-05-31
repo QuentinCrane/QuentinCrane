@@ -6,8 +6,6 @@
 <!-- 打字动画 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=54b1fd&center=true&vCenter=true&width=480&lines=Building+privacy-first+apps;Exploring+AI+%26+creative+systems;Turning+ideas+into+elegant+code;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=QuentinCrane&color=54b1fd&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
 ---
 
 ### :wave: Hi there! I'm Quentin
@@ -17,6 +15,8 @@
 相信好的软件应该让用户掌控自己的数据 :round_pushpin: @WYU
 
 </div>
+
+---
 
 ## :fire: Featured Projects
 
@@ -79,56 +79,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## :bar_chart: GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats Card (Left) + Top Languages (Right) -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=QuentinCrane&show_icons=true&hide_border=true&count_private=true&title_color=54b1fd&text_color=333&icon_color=54b1fd&bg_color=fff" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinCrane&layout=compact&hide_border=true&title_color=54b1fd&text_color=333&bg_color=fff" alt="Top Languages" />
-
-</div>
-
-<!-- Streak Stats -->
-<div align="center">
-<img width="65%" src="https://streak-stats.demolab.com?user=QuentinCrane&hide_border=true&background=fff&ring=54b1fd&fire=54b1fd&currStreakLabel=54b1fd&sideLabels=54b1fd" alt="GitHub Streak" />
-</div>
-
----
-
-## :snake: Contribution Snake
-
-<!-- GitHub Contribution Snake Animation - 等待 GitHub Actions 运行后启用 -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
----
-
-## :chart_with_upwards_trend: Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuentinCrane&bg_color=ffffff&color=54b1fd&line=54b1fd&point=54b1fd&area=true&area_color=54b1fd&hide_border=true)
-
-</div>
-
----
-
-## :trophy: Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=QuentinCrane&no-frame=true&no-bg=true&margin-w=8&column=4&title_color=54b1fd&text_color=333" alt="GitHub Trophies" />
 
 </div>
 
