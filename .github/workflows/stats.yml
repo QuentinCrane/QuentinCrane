@@ -15,18 +15,50 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Stats
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@v1
         with:
-          username: QuentinCrane
+          card: stats
+          options: |
+            username=QuentinCrane
+            show_icons=true
+            hide_border=true
+            count_private=true
+            title_color=54b1fd
+            text_color=333
+            icon_color=54b1fd
+            bg_color=fff
+          path: output/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          stats: true
-          stats_theme: default
-          langs: true
-          langs_count: 8
-          langs_theme: default
-          streak: true
-          streak_theme: default
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: |
+            username=QuentinCrane
+            layout=compact
+            hide_border=true
+            title_color=54b1fd
+            text_color=333
+            bg_color=fff
+          path: output/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Streak Stats
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: streak
+          options: |
+            username=QuentinCrane
+            hide_border=true
+            background=fff
+            ring=54b1fd
+            fire=54b1fd
+            currStreakLabel=54b1fd
+            sideLabels=54b1fd
+          path: output/streak-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
         run: |
