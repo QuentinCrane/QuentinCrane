@@ -89,14 +89,14 @@
 <div align="center">
 
 <!-- GitHub Stats Card (Left) + Top Languages (Right) -->
-<img width="48%" src="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/github-stats.svg" alt="GitHub Stats" />
-<img width="48%" src="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/top-langs.svg" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=QuentinCrane&show_icons=true&theme=blue&hide_border=true&count_private=true&title_color=54b1fd&text_color=333&icon_color=54b1fd&bg_color=fff" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinCrane&layout=compact&theme=blue&hide_border=true&title_color=54b1fd&text_color=333&bg_color=fff" alt="Top Languages" />
 
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-<img width="65%" src="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/streak-stats.svg" alt="GitHub Streak" />
+<img width="65%" src="https://streak-stats.demolab.com?user=QuentinCrane&theme=blue&hide_border=true&ring=54b1fd&fire=54b1fd&currStreakLabel=54b1fd&sideLabels=54b1fd" alt="GitHub Streak" />
 </div>
 
 ---
