@@ -1,33 +1,22 @@
 <div align="center">
 
 <!-- 动态渐变头部 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=QuentinCrane&fontSize=80&fontColor=ffffff&desc=Full-Stack+Developer+%7C+Local-First+Advocate&descSize=20&fontAlignY=35&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=QuentinCrane&fontSize=70&fontColor=ffffff&desc=Full-Stack+Developer+%7C+Local-First+Advocate&descSize=18&fontAlignY=35&descAlignY=55" width="100%"/>
 
 <!-- 打字动画 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=54b1fd&center=true&vCenter=true&width=500&lines=Building+privacy-first+apps;Exploring+AI+%26+creative+systems;Turning+ideas+into+elegant+code;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=54b1fd&center=true&vCenter=true&width=480&lines=Building+privacy-first+apps;Exploring+AI+%26+creative+systems;Turning+ideas+into+elegant+code;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=QuentinCrane&color=54b1fd&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 ---
 
-<!-- 访问计数 + 随机段子 -->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=QuentinCrane&color=54b1fd&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
-
-## :wave: Hi there! I'm Quentin
+### :wave: Hi there! I'm Quentin
 
 专注于构建**本地优先、隐私友好**的应用程序 :lock:
 
 相信好的软件应该让用户掌控自己的数据 :round_pushpin: @WYU
 
 </div>
-
----
 
 ## :fire: Featured Projects
 
@@ -114,7 +103,7 @@
 
 ## :snake: Contribution Snake
 
-<!-- GitHub Contribution Snake Animation -->
+<!-- GitHub Contribution Snake Animation - 等待 GitHub Actions 运行后启用 -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/github-contribution-grid-snake-dark.svg" />
