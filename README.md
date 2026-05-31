@@ -89,14 +89,14 @@
 <div align="center">
 
 <!-- GitHub Stats Card (Left) + Top Languages (Right) -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=QuentinCrane&show_icons=true&theme=blue&hide_border=true&count_private=true&title_color=54b1fd&text_color=333&icon_color=54b1fd&bg_color=fff&custom_title=QuentinCrane's+GitHub+Stats" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinCrane&layout=compact&theme=blue&hide_border=true&title_color=54b1fd&text_color=333&bg_color=fff" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=QuentinCrane&show_icons=true&hide_border=true&count_private=true&title_color=54b1fd&text_color=333&icon_color=54b1fd&bg_color=fff" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinCrane&layout=compact&hide_border=true&title_color=54b1fd&text_color=333&bg_color=fff" alt="Top Languages" />
 
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-<img width="65%" src="https://streak-stats.demolab.com?user=QuentinCrane&theme=blue&hide_border=true&background=fff&ring=54b1fd&fire=54b1fd&currStreakLabel=54b1fd&sideLabels=54b1fd" alt="GitHub Streak" />
+<img width="65%" src="https://streak-stats.demolab.com?user=QuentinCrane&hide_border=true&background=fff&ring=54b1fd&fire=54b1fd&currStreakLabel=54b1fd&sideLabels=54b1fd" alt="GitHub Streak" />
 </div>
 
 ---
@@ -128,7 +128,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=QuentinCrane&theme=blue&no-frame=true&no-bg=true&margin-w=8&column=4&title_color=54b1fd" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=QuentinCrane&no-frame=true&no-bg=true&margin-w=8&column=4&title_color=54b1fd&text_color=333" alt="GitHub Trophies" />
 
 </div>
 
