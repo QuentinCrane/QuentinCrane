@@ -20,66 +20,7 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Clone github-readme-stats
-        run: |
-          git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git /tmp/github-readme-stats
-          cd /tmp/github-readme-stats
-          npm install
-
-      - name: Generate Stats SVG
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          cd /tmp/github-readme-stats
-          node -e "
-            const { renderStatsCard } = require('./src/cards/stats-card');
-            const { renderTopLanguages } = require('./src/cards/top-languages-card');
-            const { request } = require('./src/common/utils');
-            const themes = require('./themes/index');
-            const fs = require('fs');
-            const fetch = require('axios');
-
-            async function main() {
-              try {
-                const statsData = await fetch.get('https://api.github.com/users/QuentinCrane', {
-                  headers: { Authorization: 'token ' + process.env.GITHUB_TOKEN }
-                });
-                const stats = statsData.data;
-
-                const statsCard = renderStatsCard({
-                  name: stats.name || 'QuentinCrane',
-                  totalPRs: stats.public_repos || 0,
-                  totalCommits: 50,
-                  totalIssues: 0,
-                  totalStars: 1,
-                  contributedTo: 0,
-                  rank: 'B',
-                }, {
-                  show_icons: true,
-                  hide_border: true,
-                  title_color: '54b1fd',
-                  icon_color: '54b1fd',
-                  text_color: '333',
-                  bg_color: 'fff',
-                });
-
-                fs.writeFileSync('${{ github.workspace }}/output/github-stats.svg', statsCard);
-                console.log('Stats card generated!');
-              } catch (e) {
-                console.error('Error generating stats:', e.message);
-                // Generate a fallback simple SVG
-                const fallback = '<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"495\" height=\"195\" viewBox=\"0 0 495 195\"><rect fill=\"#fff\" width=\"495\" height=\"195\" rx=\"4.5\"/><text x=\"247\" y=\"97\" text-anchor=\"middle\" font-family=\"Verdana\" font-size=\"14\" fill=\"#333\">QuentinCrane - GitHub Stats Loading...</text></svg>';
-                fs.mkdirSync('output', { recursive: true });
-                fs.writeFileSync('output/github-stats.svg', fallback);
-              }
-            }
-            main();
-          "
-          mkdir -p ${{ github.workspace }}/output
-          cp -f ${{ github.workspace }}/output/github-stats.svg /tmp/ 2>/dev/null || true
-          ls -la ${{ github.workspace }}/output/ 2>/dev/null || echo "output dir not found"
-
-      - name: Generate fallback stats SVG
+      - name: Generate stats SVGs
         run: |
           mkdir -p ${{ github.workspace }}/output
           cat > ${{ github.workspace }}/output/github-stats.svg << 'SVGEOF'
