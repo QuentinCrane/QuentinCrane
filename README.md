@@ -84,6 +84,33 @@
 
 ---
 
+## :bar_chart: GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Card (Left) + Top Languages (Right) -->
+<img width="48%" src="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/github-stats.svg" alt="GitHub Stats" />
+<img width="48%" src="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/top-langs.svg" alt="Top Languages" />
+
+</div>
+
+<!-- Streak Stats -->
+<div align="center">
+<img width="65%" src="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/streak-stats.svg" alt="GitHub Streak" />
+</div>
+
+---
+
+## :trophy: Achievements
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/trophies.svg" alt="GitHub Trophies" />
+
+</div>
+
+---
+
 ## :books: More Projects
 
 | 项目 | 简介 | 技术 |

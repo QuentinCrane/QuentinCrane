@@ -1,0 +1,37 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天UTC 0点运行
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Stats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          username: QuentinCrane
+          token: ${{ secrets.GITHUB_TOKEN }}
+          stats: true
+          stats_theme: default
+          langs: true
+          langs_count: 8
+          langs_theme: default
+          streak: true
+          streak_theme: default
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "chore: 更新统计图片 [skip ci]"
+          git push
