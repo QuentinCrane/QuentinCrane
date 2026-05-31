@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/QuentinCrane/QuentinCrane/output/trophies.svg" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=QuentinCrane&theme=blue&no-frame=true&no-bg=true&margin-w=8&column=4&title_color=54b1fd" alt="GitHub Trophies" />
 
 </div>
 
