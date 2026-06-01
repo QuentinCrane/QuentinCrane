@@ -1,18 +1,35 @@
 <div align="center">
 
 <!-- 动态渐变头部 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=QuentinCrane&fontSize=70&fontColor=ffffff&desc=Full-Stack+Developer+%7C+Local-First+Advocate&descSize=18&fontAlignY=35&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=QuentinCrane&fontSize=80&fontColor=ffffff&desc=Full-Stack+Developer+%7C+Local-First+Advocate&descSize=20&fontAlignY=35&descAlignY=55" width="100%"/>
 
 <!-- 打字动画 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=54b1fd&center=true&vCenter=true&width=480&lines=Building+privacy-first+apps;Exploring+AI+%26+creative+systems;Turning+ideas+into+elegant+code;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=54b1fd&center=true&vCenter=true&width=500&lines=Building+privacy-first+apps;Exploring+AI+%26+creative+systems;Turning+ideas+into+elegant+code;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+
+<!-- 访问计数 -->
+<img src="https://komarev.com/ghpvc/?username=QuentinCrane&color=54b1fd&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
 
 ---
 
-### :wave: Hi there! I'm Quentin
+## :wave: Hi there! I'm Quentin
+
+<div align="center">
 
 专注于构建**本地优先、隐私友好**的应用程序 :lock:
 
 相信好的软件应该让用户掌控自己的数据 :round_pushpin: @WYU
+
+</div>
+
+---
+
+## :zap: Tech Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=ts,kotlin,flutter,python,vue,nodejs,docker,git&theme=dark&perline=4)](https://skillicons.dev)
 
 </div>
 
@@ -35,9 +52,9 @@
 - :point_right: Jetpack Compose + Material 3
 - :point_right: 深色模式 + 平板适配
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![License](https://img.shields.io/badge/License-Apache-blue?style=flat)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![License](https://img.shields.io/badge/License-Apache-blue?style=for-the-badge)
 
 [:arrow_right: 查看项目](https://github.com/QuentinCrane/Keepix)
 
@@ -55,32 +72,15 @@
 - :chart_with_upwards_trend: 本地优先 + 可选云同步
 - :chart_with_upwards_trend: 智能分析与复盘
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/License-Apache-blue?style=flat)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![License](https://img.shields.io/badge/License-Apache-blue?style=for-the-badge)
 
 [:arrow_right: 查看项目](https://github.com/QuentinCrane/Valora)
 
 </td>
 </tr>
 </table>
-
----
-
-## :wrench: Tech Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-54b1fd?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
 
 ---
 
@@ -97,6 +97,16 @@
 <!-- Streak Stats -->
 <div align="center">
 <img width="65%" src="https://streak-stats.demolab.com?user=QuentinCrane&theme=blue&hide_border=true&ring=54b1fd&fire=54b1fd&currStreakLabel=54b1fd&sideLabels=54b1fd" alt="GitHub Streak" />
+</div>
+
+---
+
+## :chart_with_upwards_trend: Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuentinCrane&bg_color=ffffff&color=54b1fd&line=54b1fd&point=54b1fd&area=true&area_color=54b1fd&hide_border=true)
+
 </div>
 
 ---
