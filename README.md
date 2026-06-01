@@ -89,8 +89,8 @@
 <div align="center">
 
 <!-- GitHub Stats Card (Left) + Top Languages (Right) -->
-<img width="48%" src="profile/stats.svg" alt="GitHub Stats" />
-<img width="48%" src="profile/top-langs.svg" alt="Top Languages" />
+<!-- <img width="48%" src="profile/stats.svg" alt="GitHub Stats" />
+<img width="48%" src="profile/top-langs.svg" alt="Top Languages" />-->
 
 </div>
 
@@ -117,9 +117,8 @@
 ## :trophy: Achievements
 
 <div align="center">
-
-<img src="profile/trophy.svg" alt="GitHub Trophies" />
-
+<!--
+<img src="profile/trophy.svg" alt="GitHub Trophies" />-->
 </div>
 
 ---
