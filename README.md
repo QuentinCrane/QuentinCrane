@@ -101,16 +101,6 @@
 
 ---
 
-## :chart_with_upwards_trend: Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuentinCrane&bg_color=ffffff&color=54b1fd&line=54b1fd&point=54b1fd&area=true&area_color=54b1fd&hide_border=true)
-
-</div>
-
----
-
 ## :snake: Contribution Snake
 
 <!-- GitHub Contribution Snake Animation -->
