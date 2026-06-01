@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,kotlin,flutter,python,vue,nodejs,docker,git&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,kotlin,flutter,python,vue,nodejs,docker,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -121,17 +121,6 @@
 <img src="profile/trophy.svg" alt="GitHub Trophies" />
 
 </div>
-
----
-
-## :books: More Projects
-
-| 项目 | 简介 | 技术 |
-|:-----|:-----|:-----|
-| [HomeDock](https://github.com/QuentinCrane/HomeDock) | 局域网个人基地系统 | TypeScript |
-| [ShadowLite](https://github.com/QuentinCrane/ShadowLite) | 双智能体2D皮影戏交互系统 | Python, AI |
-| [青荷记账](https://github.com/QuentinCrane/Qinghe-Ledger) | 个人记账软件 | TypeScript |
-| [气象预测系统](https://github.com/QuentinCrane/Weather-forecast-system) | 气象数据可视化 | Vue.js |
 
 ---
 
