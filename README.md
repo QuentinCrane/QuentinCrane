@@ -149,8 +149,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=QuentinCrane&show_icons=true&hide_border=true&count_private=true&title_color=68b836&text_color=333333&icon_color=68b836&bg_color=ffffff" alt="quentincrane GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinCrane&layout=compact&langs_count=8&hide_border=true&title_color=68b836&text_color=333333&bg_color=ffffff" alt="quentincrane top languages" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuentinCrane&theme=vue" alt="quentincrane GitHub stats" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuentinCrane&theme=vue" alt="quentincrane top languages by repo" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuentinCrane&theme=vue" alt="quentincrane top languages by commit" />
 
 <img width="65%" src="https://streak-stats.demolab.com?user=QuentinCrane&theme=transparent&hide_border=true&background=ffffff&ring=68b836&fire=68b836&currStreakLabel=68b836&sideLabels=68b836&currStreakNum=333333&sideNums=333333&dates=666666" alt="quentincrane GitHub streak" />
 
