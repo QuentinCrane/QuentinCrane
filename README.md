@@ -51,9 +51,9 @@
   <img src="https://img.shields.io/badge/License-MIT-4b830d?style=flat-square" alt="MIT License" />
 </p>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="1000" valign="top">
 
 #### :zap: dsh-combo
 
@@ -66,7 +66,7 @@
 [:arrow_right: 查看项目](https://github.com/QuentinCrane/dsh-combo)
 
 </td>
-<td width="50%" valign="top">
+<td width="1000" valign="top">
 
 #### :card_index_dividers: dsh-session-sidebar
 
@@ -90,9 +90,9 @@
   <img src="https://img.shields.io/badge/License-MIT-4b830d?style=flat-square" alt="MIT License" />
 </p>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="1000" valign="top">
 
 #### :tv: BiliTube
 
@@ -105,7 +105,7 @@
 [:arrow_right: 查看项目](https://github.com/QuentinCrane/BiliTube)
 
 </td>
-<td width="50%" valign="top">
+<td width="1000" valign="top">
 
 #### :bookmark_tabs: BookmarkWall
 
@@ -130,9 +130,9 @@
   <img src="https://img.shields.io/badge/License-Apache--2.0-4b830d?style=flat-square" alt="Apache 2.0 License" />
 </p>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="1000" valign="top">
 
 #### :camera: Keepix（看了么） `Kotlin · Compose`
 
@@ -145,7 +145,7 @@
 [:arrow_right: 查看项目](https://github.com/QuentinCrane/Keepix)
 
 </td>
-<td width="50%" valign="top">
+<td width="1000" valign="top">
 
 #### :moneybag: Valora（值谱） `Flutter`
 
@@ -160,7 +160,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="1000" valign="top">
 
 #### :seedling: Todayne（今天呢） `Flutter`
 
@@ -173,7 +173,7 @@
 [:arrow_right: 查看项目](https://github.com/QuentinCrane/Todayne---A-Private-Mood-Journal-Daylio-Alternative)
 
 </td>
-<td width="50%" valign="top">
+<td width="1000" valign="top">
 
 #### :ledger: Qinghe Ledger（青荷记账） `Flutter`
 
